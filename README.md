@@ -7,10 +7,10 @@
 - ejs
 - bootstrap
 
-## How to run
+## How to deploy
 
 - `git clone https://github.com/shc6669/blog-test.git`
 - `cd blog-test`
-- `npm i`
+- `npm install`
 - set `MONGO_URI` env variable
 - `npm start`
